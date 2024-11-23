@@ -1,0 +1,5 @@
+docling
+python-dotenv 
+langchain-text-splitters 
+langchain-huggingface 
+langchain-milvus
